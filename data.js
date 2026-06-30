@@ -112,9 +112,82 @@ const data = {
  ],
 
  "food": [],
- "transport": [],
- "drinks": [],
- "cosmetic": [],
- "clothes": []
+ 
+
+ "food": [
+ {
+ item: "Rice per 1kg shop 1",
+ price: "₦2500",
+ location: "Layin Yan kwaya",
+ shop: "Shagon adamu",
+ phone: "07026141825"
+ },
+
+ {
+ item: "Rice per 1kg shop 2",
+ price: "₦2300",
+ location: "Kasuwar wudil",
+ shop: "Shagon Dan ladi",
+ phone: "08015327157"
+ },
+
+ {
+ item: "Rice per 1kg shop 3",
+ price: "₦2700",
+ location: "Male hostel",
+ shop: "Shagon alhaji",
+ phone: "090126141721"
+ },
+
+ {
+ item: "Spaghetti per 1 shop 1",
+ price: "₦850",
+ location: "Female hostel",
+ shop: "Fatima shop",
+ phone: "09127427261"
+ },
+
+ {
+ item: "spaghetti per 1 shop 2",
+ price: "₦750",
+ location: "Layin Yan kwata",
+ shop: "Shagon nepa",
+ phone: "08125271517"
+ },
+
+ {
+ item: "spaghetti per 1 shop 3",
+ price: "₦700",
+ location: "Layin Yan kwaya",
+ shop: "zailani shop",
+ phone: "07043614714"
+ },
+
+ {
+ item: "Spaghetti per box shop 1",
+ price: "₦12000",
+ location: "Yan kwaya line",
+ shop: "Shagon SA,ad",
+ phone: "09025724827"
+ },
+
+ {
+ item: "Spaghetti per box shop 2",
+ price: "₦12500",
+ location: "Male hostel",
+ shop: "Shagon japet",
+ phone: "07027181537"
+ },
+
+ {
+ item: "spaghetti per box shop 3",
+ price: "₦11500",
+ location: "Anguwar fulani",
+ shop: "Shagon Dan aljanna",
+ phone: "09015374645"
+ },
+
+ ],
+
 
 };
